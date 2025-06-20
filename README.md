@@ -46,13 +46,3 @@
 * Material Components
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🙌 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
