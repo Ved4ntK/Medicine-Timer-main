@@ -21,7 +21,7 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/medicine-timer.git
+   git clone https://github.com/Ved4ntK/Medicine-Timer-main
    ```
 2. Open the project in [Android Studio](https://developer.android.com/studio).
 3. Build and run the app on an emulator or a physical Android device.
