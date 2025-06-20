@@ -13,7 +13,7 @@ android {
     compileSdk = libs.versions.compile.sdk.version.get().toInt()
 
     defaultConfig {
-        applicationId = "com.Ved4ntK.Medicine-Timerapp.dev"
+        applicationId = "com.Ved4ntK.Medicine-Timer-main.dev"
         minSdk = libs.versions.min.sdk.version.get().toInt()
         targetSdk = libs.versions.target.sdk.version.get().toInt()
         versionCode = libs.versions.version.code.get().toInt()
@@ -57,7 +57,7 @@ android {
         arg("room.schemaLocation", "$projectDir/schemas")
     }
 
-    namespace = "com.Ved4ntK.Medicine-Timerapp"
+    namespace = "com.Ved4ntK.Medicine-Timer-main"
 }
 
 dependencies {
