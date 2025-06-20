@@ -26,5 +26,5 @@ subprojects {
 }
 
 task("clean", Delete::class) {
-    delete(layout.buildDirectory)
+    delete(rootProject.buildDir)
 }
